@@ -1,0 +1,5 @@
+.idea/
+*.http
+*.json.user
+Properties/launchSettings.json
+appsettings.Development.json
