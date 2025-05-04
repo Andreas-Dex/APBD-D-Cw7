@@ -1,0 +1,41 @@
+# Ignore build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider project files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Configuration
+appsettings.*.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Build results
+*.dll
+*.exe
+*.db
+*.pdb
+
+# Other
+*.cache
+*.tmp
